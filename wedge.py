@@ -284,3 +284,6 @@ if __name__ == '__main__':
     )
     args = p.parse_args()
     wedge_main(args.ny, args.nx, args.L1, args.L2, args.L3, args.h1, args.theta, plot=args.plot) 
+
+
+print("The program is finished!!!") 
