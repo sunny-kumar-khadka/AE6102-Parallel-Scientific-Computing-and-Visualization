@@ -15,7 +15,6 @@ This project implements a numerical solver for simulating supersonic flow over a
 - **Parallel Computing**: Multiple implementations with Numba JIT compilation for performance
 - **Interactive Visualization**: TraitsUI-based GUI for parameter exploration
 - **Automated Analysis**: Batch processing capabilities for parameter studies
-- **Performance Benchmarking**: Comparative analysis of different optimization approaches
 
 ## Project Structure
 
@@ -51,7 +50,7 @@ Where:
 
 - **Spatial Discretization**: **Finite volume approach** with structured grid
 - **Flux Calculation**: **Roe-FDS (Roe Flux Difference Splitting) scheme**
-- **Time Integration**: Explicit Runge-Kutta scheme
+- **Time Integration**: Explicit forward Euler scheme
 - **Boundary Conditions**: Supersonic inlet/outlet conditions
 
 ### Computational Domain
