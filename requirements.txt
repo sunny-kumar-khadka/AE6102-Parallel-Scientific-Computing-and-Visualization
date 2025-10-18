@@ -1,0 +1,11 @@
+numpy>=1.21.0
+matplotlib>=3.5.0
+traits>=7.0.0
+traitsui>=8.0.0
+pyface>=8.0.0
+chaco>=6.1.0
+enable>=6.1.0
+pyqt5>=5.15.0
+numba>=0.56.0
+automan>=0.1.0
+
