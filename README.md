@@ -141,23 +141,6 @@ Compare different implementations:
 python src/wedge_numba_automat.py
 ```
 
-## Results and Analysis
-
-### Flow Field Visualization
-
-![Flow Field Results](figures/result.png)
-
-### Convergence Analysis
-
-Convergence studies demonstrate the numerical stability and accuracy of the method:
-
-![Convergence Analysis](figures/convergence.png)
-
-### Performance Benchmarking
-
-Comparative analysis of different optimization strategies:
-
-![Performance Comparison](figures/bar_plot_with_error_bars.png)
 
 
 
